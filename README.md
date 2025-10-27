@@ -1,9 +1,3 @@
-Influence-aware Causal Autoencoder Network for Node Importance Ranking in Complex Networks
-
-Introduction
-
-We proposed an influence-aware Causal Autoencoder Network (ICAN) for Node Importance Ranking in Complex Networks.
-
 Usage
 
 --The code is tested on python3.7 and tensorflow1.13.1.
